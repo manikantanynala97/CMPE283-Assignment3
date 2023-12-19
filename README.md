@@ -121,3 +121,9 @@ Exit #30 - IO_INSTRUCTION
 
 Least frequest exit is
 Exit #0 - EXCEPTION_NMI
+
+![assignment3-1](https://github.com/manikantanynala97/CMPE283-Assignment3/assets/90610801/2397f0be-3c8e-4de4-b034-556ca9b9fb3c)
+
+![assignment3-2](https://github.com/manikantanynala97/CMPE283-Assignment3/assets/90610801/83eaa418-22a4-4dad-b044-ffcab3170d25)
+
+
